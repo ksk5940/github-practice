@@ -1,0 +1,4 @@
+a.txt line1
+line2[A
+[A[C[C[C[C[C
+
